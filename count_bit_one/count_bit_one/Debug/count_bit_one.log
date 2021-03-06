@@ -1,0 +1,21 @@
+﻿生成启动时间为 2021/3/6 下午 09:29:06。
+     1>项目“D:\git中的项目\count_bit_one\count_bit_one\count_bit_one\count_bit_one.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\count_bit_one.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\vc++2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt count_bit_one.c
+         count_bit_one.c
+       Link:
+         d:\vc++2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\git中的项目\count_bit_one\count_bit_one\Debug\count_bit_one.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\count_bit_one.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\git中的项目\count_bit_one\count_bit_one\Debug\count_bit_one.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\git中的项目\count_bit_one\count_bit_one\Debug\count_bit_one.lib" /MACHINE:X86 Debug\count_bit_one.obj
+         LINK : 没有找到 D:\git中的项目\count_bit_one\count_bit_one\Debug\count_bit_one.exe 或上一个增量链接没有生成它；正在执行完全链接
+         count_bit_one.vcxproj -> D:\git中的项目\count_bit_one\count_bit_one\Debug\count_bit_one.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\git中的项目\count_bit_one\count_bit_one\Debug\count_bit_one.exe;#1" /manifest Debug\count_bit_one.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\count_bit_one.unsuccessfulbuild”。
+         正在对“Debug\count_bit_one.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\git中的项目\count_bit_one\count_bit_one\count_bit_one\count_bit_one.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.61
